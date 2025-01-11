@@ -1,2 +1,0 @@
-Hi, this is a txt file line 1
-and this is line 2
