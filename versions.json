@@ -1,1 +1,13 @@
-t
+{
+    "versions": {
+        "primeaimpro": "v1.0.0",
+        "primetriggerpro": "v1.0.0",
+        "primeprefire": "v1.0.0",
+        "primy": "v1.0.0",
+        "primeaim": "v1.0.0",
+        "ps5colorchanger": "v1.0.0",
+        "primecloner": "v1.0.0",
+        "primetrigger": "v1.0.0",
+        "primecs2": "v1.0.0"
+    }
+}
