@@ -1,13 +1,13 @@
 {
     "versions": {
-        "primeaimpro": "v1.0.0",
-        "primetriggerpro": "v1.0.0",
-        "primeprefire": "v1.0.0",
-        "crosshair": "v1.0.0",
+        "primeaimpro": "v1.1.1",
         "primeaim": "v1.0.0",
-        "ps5colorchanger": "v1.0.0",
+        "primetriggerpro": "v1.1.1",
+        "primetrigger": "v1.0.1",
+        "primeprefire": "v1.1.2",
         "primecloner": "v1.0.0",
-        "primetrigger": "v1.0.0",
-        "primecs2": "v1.0.0"
+        "ps5colorchanger": "v1.0.0",
+        "primecs2": "v1.0.0",
+        "crosshair": "v1.0.0",
     }
 }
